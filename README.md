@@ -3,7 +3,7 @@
 ## Проект 1. [Random walk simulation](https://github.com/arl9kin/Python_data/blob/master/Tasks/Simulating_a_random_walk.ipynb)
 - Симуляция и интерпретация Random walk с помощью модуля random и библиотеки matplotlib.
 
-![alt text](https://github.com/arl9kin/Python_data/blob/master/random_walk.png)
+![alt text](https://github.com/arl9kin/Python_data/blob/master/images/random_walk.png)
 
 ## Проект 2. [Проверка зеркальности строки](https://github.com/arl9kin/Python_data/blob/master/Tasks/Mirror_string.ipynb)
 
