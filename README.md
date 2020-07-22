@@ -1,7 +1,7 @@
 # Python_data
 Мои учебные проекты
 ## Проект 1. [Random walk simulation](https://github.com/arl9kin/Python_data/blob/master/Tasks/Simulating_a_random_walk.ipynb)
-- Симуляция и интерпитация Random walk с помощтю модуля random и библиотеки matplotlib.
+- Симуляция и интерпретация Random walk с помощью модуля random и библиотеки matplotlib.
 
 ## Проект 2. [Проверка зеркальности строки](https://github.com/arl9kin/Python_data/blob/master/Tasks/Mirror_string.ipynb)
 
