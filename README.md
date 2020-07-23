@@ -11,8 +11,14 @@
 
 ![alt text](https://github.com/arl9kin/Python_data/blob/master/images/%D0%91%D0%B5%D0%B7%20%D0%BD%D0%B0%D0%B7%D0%B2%D0%B0%D0%BD%D0%B8%D1%8F.png)
 
-## Проект 3. [Проверка зеркальности строки](https://github.com/arl9kin/Python_data/blob/master/Tasks/Mirror_string.ipynb)
+## Проект 3. [Влияние рекламы на продажи](https://github.com/arl9kin/Python_data/blob/master/viz/scatter_with_trend.ipynb)
+
+- Визуализация влияния рекламы на продажи сделанная с помщью библиотек matplotlib и seaborn. 
+
+![alt text](https://github.com/arl9kin/Python_data/blob/master/images/trend.png)
+
+## Проект 4. [Проверка зеркальности строки](https://github.com/arl9kin/Python_data/blob/master/Tasks/Mirror_string.ipynb)
 
 - Программа проверяет зеркальность строки в аргументе функции. 
 					
-## Проект 4. [Простой шифр Цезаря](https://github.com/arl9kin/Python_data/blob/master/Tasks/CAESAR%20CHIPHER.ipynb)
+## Проект 5. [Простой шифр Цезаря](https://github.com/arl9kin/Python_data/blob/master/Tasks/CAESAR%20CHIPHER.ipynb)
