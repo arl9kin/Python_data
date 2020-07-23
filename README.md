@@ -8,7 +8,8 @@
 
 ## Проект 2. [Работа с качественным данными](https://github.com/arl9kin/Python_data/blob/master/ML/categorical.ipynb)
 
-- Расчет и визуализация множественной линейной регрессии с качественной переменной. 
+- Расчет и визуализация множественной линейной регрессии с качественной переменной.
+- Прогноз на основе модели
 
 ![alt text](https://github.com/arl9kin/Python_data/blob/master/images/cat.png)
 
