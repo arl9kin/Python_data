@@ -15,7 +15,7 @@
 
 - Визуализация влияния рекламы на продажи сделанная с помщью библиотек matplotlib и seaborn. 
 
-![alt text](https://github.com/arl9kin/Python_data/blob/master/images/trend.png)
+![alt text](https://github.com/arl9kin/Python_data/blob/master/images/trend1.png)
 
 ## Проект 4. [Проверка зеркальности строки](https://github.com/arl9kin/Python_data/blob/master/Tasks/Mirror_string.ipynb)
 
