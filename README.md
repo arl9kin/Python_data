@@ -13,11 +13,11 @@
 
 ![alt text](https://github.com/arl9kin/Python_data/blob/master/images/cat.png)
 
-## Проект 3. [Простая линейная регрессия](https://github.com/arl9kin/Python_data/blob/master/ML/Simple%20Linear%20Regression%20Exercise.ipynb)
+## Проект 3. [Простая линейная регрессия на sklearn](https://github.com/arl9kin/Python_data/blob/master/ML/SLR_sklearn.ipynb)
 
-Рассмотренна зависимость цен на недвижимость в зависимости от площади.
+Разработка простой линейной регрессии с помощью библиотеки scikit-learn.
 
-![alt text](https://github.com/arl9kin/Python_data/blob/master/images/%D0%91%D0%B5%D0%B7%20%D0%BD%D0%B0%D0%B7%D0%B2%D0%B0%D0%BD%D0%B8%D1%8F.png)
+![alt text](https://github.com/arl9kin/Python_data/blob/master/images/skl.png)
 
 ## Проект 4. [Влияние рекламы на продажи](https://github.com/arl9kin/Python_data/blob/master/viz/scatter_with_trend.ipynb)
 
