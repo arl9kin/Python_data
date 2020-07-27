@@ -25,8 +25,14 @@
 
 ![alt text](https://github.com/arl9kin/Python_data/blob/master/images/trend1.png)
 
-## Проект 5. [Проверка зеркальности строки](https://github.com/arl9kin/Python_data/blob/master/Tasks/Mirror_string.ipynb)
+## Проект 5. [Множественная линейная регрессия SkLearn](https://github.com/arl9kin/Python_data/blob/master/ML/MLR_sklearn.ipynb)
+
+- Множественная линейная регрессия на базе библиотеки SkLearn
+- Проведено определение незначимосй переменной двумя спопсобами через p-value и с помощью стандартизации.
+					
+## Проект 6. [Проверка зеркальности строки](https://github.com/arl9kin/Python_data/blob/master/Tasks/Mirror_string.ipynb)
 
 - Программа проверяет зеркальность строки в аргументе функции. 
 					
-## Проект 6. [Простой шифр Цезаря](https://github.com/arl9kin/Python_data/blob/master/Tasks/CAESAR%20CHIPHER.ipynb)
+## Проект 7. [Простой шифр Цезаря](https://github.com/arl9kin/Python_data/blob/master/Tasks/CAESAR%20CHIPHER.ipynb)
+
