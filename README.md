@@ -9,6 +9,7 @@
 - Тестирование модели.
 
 ![alt text](https://github.com/arl9kin/Python_data/blob/master/images/auto.png)
+![alt text](https://github.com/arl9kin/Python_data/blob/master/images/auto%201.png)
 
 ## Проект 2. [Логистическая регрессия](https://github.com/arl9kin/Python_data/blob/master/ML/logistic/Logittask2.ipynb)
 
