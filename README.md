@@ -16,12 +16,11 @@
 ![alt text](https://github.com/arl9kin/Python_data/blob/master/images/random_walk.png)
 
 
-## Проект 3. [Работа с качественным данными](https://github.com/arl9kin/Python_data/blob/master/ML/categorical.ipynb)
+## Проект 3. [Логистическая регрессия](https://github.com/arl9kin/Python_data/blob/master/ML/Logistic.ipynb)
 
-- Расчет и визуализация множественной линейной регрессии с качественной переменной.
-- Прогноз на основе модели
+- Расчет и визуализация логистической регрессии на основании оценки теста SAT и показателя допуска к экзаменам.
 
-![alt text](https://github.com/arl9kin/Python_data/blob/master/images/cat.png)
+![alt text](https://github.com/arl9kin/Python_data/blob/master/images/logit.png)
 
 ## Проект 4. [Простая линейная регрессия на sklearn](https://github.com/arl9kin/Python_data/blob/master/ML/SLR_sklearn.ipynb)
 
@@ -40,9 +39,17 @@
 - Множественная линейная регрессия на базе библиотеки SkLearn
 - Проведено определение незначимосй переменной двумя спопсобами через p-value и с помощью стандартизации.
 					
-## Проект 7. [Проверка зеркальности строки](https://github.com/arl9kin/Python_data/blob/master/Tasks/Mirror_string.ipynb)
+## Проект 7. [Работа с качественным данными](https://github.com/arl9kin/Python_data/blob/master/ML/categorical.ipynb)
+
+- Расчет и визуализация множественной линейной регрессии с качественной переменной.
+- Прогноз на основе модели
+
+![alt text](https://github.com/arl9kin/Python_data/blob/master/images/cat.png)
+			
+
+## Проект 8. [Проверка зеркальности строки](https://github.com/arl9kin/Python_data/blob/master/Tasks/Mirror_string.ipynb)
 
 - Программа проверяет зеркальность строки в аргументе функции. 
 					
-## Проект 8. [Простой шифр Цезаря](https://github.com/arl9kin/Python_data/blob/master/Tasks/CAESAR%20CHIPHER.ipynb)
+## Проект 9. [Простой шифр Цезаря](https://github.com/arl9kin/Python_data/blob/master/Tasks/CAESAR%20CHIPHER.ipynb)
 
