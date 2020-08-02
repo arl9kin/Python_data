@@ -22,11 +22,11 @@
 
 ## Проект 3. [Кластеризация методом K-Means](https://github.com/arl9kin/Python_data/blob/master/ML/cluster/A%20Simple%20Example%20of%20Clustering.ipynb)
 
-- Кластеризация методом 6-средних географических данных координат центров стран мира. 
+- Кластеризация методом 3-средних географических данных координат центров стран мира. 
+- Определение оптимального количества кластеров с помощью "метода локтя" ("The Elbow Method")
 
 ![alt text](https://github.com/arl9kin/Python_data/blob/master/images/kmean1.png)
 ![alt text](https://github.com/arl9kin/Python_data/blob/master/images/kmean2.png)
-
 
 ## Проект 4. [Простая линейная регрессия на sklearn](https://github.com/arl9kin/Python_data/blob/master/ML/linear/SLR_sklearn.ipynb)
 
@@ -60,7 +60,6 @@
 
 ![alt text](https://github.com/arl9kin/Python_data/blob/master/images/cat.png)
 			
-
 ## Проект 9. [Проверка зеркальности строки](https://github.com/arl9kin/Python_data/blob/master/Tasks/Mirror_string.ipynb)
 
 - Программа проверяет зеркальность строки в аргументе функции. 
