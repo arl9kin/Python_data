@@ -23,7 +23,7 @@
 ## Проект 3. [Кластеризация методом K-Means](https://github.com/arl9kin/Python_data/blob/master/ML/cluster/A%20Simple%20Example%20of%20Clustering.ipynb)
 
 - Кластеризация методом 3-средних географических координат центров стран мира. 
-- Определение оптимального количества кластеров с помощью "метода локтя" ("The Elbow Method")
+- Определение оптимального количества кластеров с помощью "метода локтя" ("The Elbow Method").
 
 ![alt text](https://github.com/arl9kin/Python_data/blob/master/images/kmean1.png)
 ![alt text](https://github.com/arl9kin/Python_data/blob/master/images/kmean2.png)
