@@ -20,13 +20,14 @@
 
 ![alt text](https://github.com/arl9kin/Python_data/blob/master/images/logit1.png)
 
-## Проект 3. [Кластеризация методом K-Means](https://github.com/arl9kin/Python_data/blob/master/ML/cluster/A%20Simple%20Example%20of%20Clustering.ipynb)
+## Проект 3. [Сегментация видов ирисов Фишера с помощью кластерного анализа](https://github.com/arl9kin/Python_data/blob/master/ML/cluster/Species%20Segmentation%20with%20Cluster%20Analysis%20Exercise.ipynb)
 
-- Кластеризация методом 3-средних географических координат центров стран мира. 
+- Кластеризация методом K-средних данных об ирисах на базе формы их наружной доли околоцветника (sepal).
 - Определение оптимального количества кластеров с помощью "метода локтя" ("The Elbow Method").
+- Кластеризация стандартизированных и нестандартизированных данных и сравнение результатов с реальными кластерами.
 
-![alt text](https://github.com/arl9kin/Python_data/blob/master/images/kmean1.png)
-![alt text](https://github.com/arl9kin/Python_data/blob/master/images/kmean2.png)
+![alt text](https://github.com/arl9kin/Python_data/blob/master/images/clust1.png)
+![alt text](https://github.com/arl9kin/Python_data/blob/master/images/clust2.png)
 
 ## Проект 4. [Простая линейная регрессия на sklearn](https://github.com/arl9kin/Python_data/blob/master/ML/linear/SLR_sklearn.ipynb)
 
